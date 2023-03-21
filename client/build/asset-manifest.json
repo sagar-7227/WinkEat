@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.defed6f9.css",
+    "main.js": "/static/js/main.e874344c.js",
+    "static/media/background9.png": "/static/media/background9.8c705659e510c5ec1b2d.png",
+    "static/media/main.gif": "/static/media/main.b2bec113abedf7dc166f.gif",
+    "static/media/winkeat-background-mobile-view.png": "/static/media/winkeat-background-mobile-view.2c91b6e5182b181c8bf0.png",
+    "index.html": "/index.html",
+    "main.defed6f9.css.map": "/static/css/main.defed6f9.css.map",
+    "main.e874344c.js.map": "/static/js/main.e874344c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.defed6f9.css",
+    "static/js/main.e874344c.js"
+  ]
+}
