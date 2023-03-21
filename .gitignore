@@ -22,7 +22,7 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
-
+tmp
 config.env
 
 packages/react-devtools-core/dist
