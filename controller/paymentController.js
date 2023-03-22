@@ -78,7 +78,7 @@ const paymentverification = async (req, res) => {
       );
 
       res.redirect(
-        `http://localhost:9000/success?razorpay_order_id=${razorpay_order_id}&razorpay_payment_id=${razorpay_payment_id}&razorpay_signature=${razorpay_signature}`
+        `http://winkeat.com/success?razorpay_order_id=${razorpay_order_id}&razorpay_payment_id=${razorpay_payment_id}&razorpay_signature=${razorpay_signature}`
       );
     } else {
       res.status(400).json({
